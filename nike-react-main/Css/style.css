@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.price-col{
+    color: #E83A59;
+}
+.icons{
+    width: 80px;
+    height: 72px;
+    margin-top: 12px;
+}
+
+.half-item{
+    height: 105px;
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
+.items{
+    width: 50%;
+}
+.shoping-image{
+    width: 50%;
+}
+.image{
+    width: 94%;
+}
